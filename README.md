@@ -1,3 +1,4 @@
+# <a href="https://www.cameron-nagle.dev">Range Slider Live!</a> ⚡️
 # Welcome!
 ## This is a project to learn how to make a slider to implement into my personal website to showcase my projects!
 
